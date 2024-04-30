@@ -1,3 +1,6 @@
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
   optOutPrivateRepos: true
+optConfig:
+ optInRepos:
+ - allstar-test
